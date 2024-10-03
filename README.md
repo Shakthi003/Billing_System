@@ -1,2 +1,2 @@
 # Billing_System
- Supermarket billing system
+HCL Mini Project
